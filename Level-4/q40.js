@@ -1,0 +1,20 @@
+// Remove All Spaces
+// Remove all spaces from a string.
+
+// Input: "hello world" → Output: "helloworld"
+// Input: "  a b  c  " → Output: "abc"
+// Input: "no_spaces" → Output: "no_spaces"
+
+let str = "  ab  c";
+let res = "";
+for(let i = 0;i<str.length;i++){
+    if(str[i]==" "){
+        continue;
+    }
+    res = res+str[i];
+}
+console.log(res);
+
+
+//(inbuilt)
+let arr = str.split(" ").join("")
