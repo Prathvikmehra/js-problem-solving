@@ -40,4 +40,5 @@ for(let i = 0;i<Str.length;i++){
         Count1++;
     }
 }
+
 console.log(count);

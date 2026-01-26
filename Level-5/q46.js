@@ -27,4 +27,5 @@ for(let i = 0;i<name1.length;i++){
         Count++;
     }
 }
+
 console.log(Count);

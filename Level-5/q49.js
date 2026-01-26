@@ -28,4 +28,5 @@ for(let i=0;i<str.length;i++){
         res+=str[i];
     }
 }
+
 console.log(res)

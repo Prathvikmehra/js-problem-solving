@@ -31,6 +31,7 @@ Rev = Rev+Str[i].toLowerCase();
 
     }
  }
+ 
  console.log(Rev)
 
 

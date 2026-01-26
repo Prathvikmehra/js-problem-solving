@@ -25,4 +25,5 @@ function present(string, char) {
     }
     console.log("false")
 }
+
 present("hello", "k")

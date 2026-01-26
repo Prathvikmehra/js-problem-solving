@@ -54,4 +54,5 @@ for(let i=0;i<str.length;i++){
         reve += str[i];
     }
 }
+
 console.log(reve)

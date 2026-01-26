@@ -32,4 +32,4 @@ for(let i = 0;i<string.length;i++){
 }
 console.log(count);
 }
-countwords("  this   is    the    problem    solving    lecture ") ;
+countwords("  this   is    the    problem    solving    lecture ");
